@@ -1,5 +1,5 @@
 // 
-// PURPOSE: Demo code to help with completion of SYDE 121::Lab Assignment #8 Part2
+// PURPOSE: Demo code to help with completion of SYDE 121::Lab Assignment #8 Part2.
 //          No particular optimizations applied. The code structure emphasizes simplicity.
 //          The code constructs emphasize those covered in the course.
 //
